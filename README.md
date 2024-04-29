@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Esteban and I'm a software developer</p>
+<p align="left">My name is Esteban and I'm a software developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Astro.js.
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning Astro.js.
 
 ###
 
