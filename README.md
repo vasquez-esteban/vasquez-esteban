@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Astro.js<br>🎯.
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Astro.js.
 
 ###
 
