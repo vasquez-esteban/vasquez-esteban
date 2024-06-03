@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Esteban and I'm a software developer.</p>
+<p align="left">My name is Esteban and I'm a creative developer.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning Astro.js.
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning GSAP.
 
 ###
 
@@ -30,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
 </div>
 
