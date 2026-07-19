@@ -70,6 +70,6 @@
 <h2 align="left">📫 Connect With Me</h2>
 
 - 💼 [LinkedIn](www.linkedin.com/in/esteban-vásquez-pérez-693062245)  
-- 📧 **Email:** woi.koiso@gmail.com
+- 📧 **Email:** vaspe.inbox@gmail.com
 - 🌍 **Portfolio:** [Web Developer](https://esteban-vasquez.netlify.app/)
 - 🌍 **Portfolio:** [Data Scientist](https://www.datacamp.com/portfolio/evasquezp)  
